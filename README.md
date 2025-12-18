@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 📫 How to reach me: [acil.djehiche@outlook.com](mailto:acil.djehiche@outlook.com)
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java
+- **Languages:** Python, TypeScript, Java
 - **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker
+- **Tools:** Git, Docker, Cloudflare
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 📈 GitHub Stats
